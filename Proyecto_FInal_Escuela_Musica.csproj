@@ -277,6 +277,7 @@
     </Compile>
     <Compile Include="Cursos\EditCurso.aspx.cs">
       <DependentUpon>EditCurso.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Cursos\EditCurso.aspx.designer.cs">
       <DependentUpon>EditCurso.aspx</DependentUpon>
