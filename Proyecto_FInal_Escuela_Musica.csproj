@@ -368,6 +368,7 @@
     </Compile>
     <Compile Include="Matriculas\ListMatriculas.aspx.cs">
       <DependentUpon>ListMatriculas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Matriculas\ListMatriculas.aspx.designer.cs">
       <DependentUpon>ListMatriculas.aspx</DependentUpon>
