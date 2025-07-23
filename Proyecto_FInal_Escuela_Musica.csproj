@@ -304,6 +304,7 @@
     </Compile>
     <Compile Include="Especialidades\EditEspecialidad.aspx.cs">
       <DependentUpon>EditEspecialidad.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Especialidades\EditEspecialidad.aspx.designer.cs">
       <DependentUpon>EditEspecialidad.aspx</DependentUpon>
