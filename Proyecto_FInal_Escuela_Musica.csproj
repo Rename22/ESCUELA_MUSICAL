@@ -311,6 +311,7 @@
     </Compile>
     <Compile Include="Especialidades\ListEspecialidades.aspx.cs">
       <DependentUpon>ListEspecialidades.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Especialidades\ListEspecialidades.aspx.designer.cs">
       <DependentUpon>ListEspecialidades.aspx</DependentUpon>
