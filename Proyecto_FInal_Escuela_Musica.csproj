@@ -288,6 +288,7 @@
     </Compile>
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
@@ -330,18 +331,21 @@
     </Compile>
     <Compile Include="Evaluaciones\AddEvaluacion.aspx.cs">
       <DependentUpon>AddEvaluacion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Evaluaciones\AddEvaluacion.aspx.designer.cs">
       <DependentUpon>AddEvaluacion.aspx</DependentUpon>
     </Compile>
     <Compile Include="Evaluaciones\EditEvaluacion.aspx.cs">
       <DependentUpon>EditEvaluacion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Evaluaciones\EditEvaluacion.aspx.designer.cs">
       <DependentUpon>EditEvaluacion.aspx</DependentUpon>
     </Compile>
     <Compile Include="Evaluaciones\ListEvaluaciones.aspx.cs">
       <DependentUpon>ListEvaluaciones.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Evaluaciones\ListEvaluaciones.aspx.designer.cs">
       <DependentUpon>ListEvaluaciones.aspx</DependentUpon>
@@ -351,36 +355,42 @@
     </Compile>
     <Compile Include="Matriculas\AddMatricula.aspx.cs">
       <DependentUpon>AddMatricula.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Matriculas\AddMatricula.aspx.designer.cs">
       <DependentUpon>AddMatricula.aspx</DependentUpon>
     </Compile>
     <Compile Include="Matriculas\EditMatricula.aspx.cs">
       <DependentUpon>EditMatricula.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Matriculas\EditMatricula.aspx.designer.cs">
       <DependentUpon>EditMatricula.aspx</DependentUpon>
     </Compile>
     <Compile Include="Matriculas\ListMatriculas.aspx.cs">
       <DependentUpon>ListMatriculas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Matriculas\ListMatriculas.aspx.designer.cs">
       <DependentUpon>ListMatriculas.aspx</DependentUpon>
     </Compile>
     <Compile Include="Profesores\AddProfesor.aspx.cs">
       <DependentUpon>AddProfesor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Profesores\AddProfesor.aspx.designer.cs">
       <DependentUpon>AddProfesor.aspx</DependentUpon>
     </Compile>
     <Compile Include="Profesores\EditProfesor.aspx.cs">
       <DependentUpon>EditProfesor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Profesores\EditProfesor.aspx.designer.cs">
       <DependentUpon>EditProfesor.aspx</DependentUpon>
     </Compile>
     <Compile Include="Profesores\ListProfesores.aspx.cs">
       <DependentUpon>ListProfesores.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Profesores\ListProfesores.aspx.designer.cs">
       <DependentUpon>ListProfesores.aspx</DependentUpon>
