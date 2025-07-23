@@ -330,6 +330,7 @@
     </Compile>
     <Compile Include="Evaluaciones\AddEvaluacion.aspx.cs">
       <DependentUpon>AddEvaluacion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Evaluaciones\AddEvaluacion.aspx.designer.cs">
       <DependentUpon>AddEvaluacion.aspx</DependentUpon>
