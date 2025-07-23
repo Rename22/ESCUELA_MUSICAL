@@ -297,6 +297,7 @@
     </Compile>
     <Compile Include="Especialidades\AddEspecialidad.aspx.cs">
       <DependentUpon>AddEspecialidad.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Especialidades\AddEspecialidad.aspx.designer.cs">
       <DependentUpon>AddEspecialidad.aspx</DependentUpon>
