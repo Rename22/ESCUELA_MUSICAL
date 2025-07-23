@@ -361,6 +361,7 @@
     </Compile>
     <Compile Include="Matriculas\EditMatricula.aspx.cs">
       <DependentUpon>EditMatricula.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Matriculas\EditMatricula.aspx.designer.cs">
       <DependentUpon>EditMatricula.aspx</DependentUpon>
