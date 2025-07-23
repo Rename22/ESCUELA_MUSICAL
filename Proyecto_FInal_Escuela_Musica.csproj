@@ -332,6 +332,7 @@
     </Compile>
     <Compile Include="Estudiantes\ListEstudiantes.aspx.cs">
       <DependentUpon>ListEstudiantes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Estudiantes\ListEstudiantes.aspx.designer.cs">
       <DependentUpon>ListEstudiantes.aspx</DependentUpon>
