@@ -1,1 +1,6 @@
 .vs/
+*.db
+*.db-shm
+*.db-wal
+*.suo
+*.json

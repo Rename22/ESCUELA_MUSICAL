@@ -270,18 +270,21 @@
     </Compile>
     <Compile Include="Cursos\AddCurso.aspx.cs">
       <DependentUpon>AddCurso.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Cursos\AddCurso.aspx.designer.cs">
       <DependentUpon>AddCurso.aspx</DependentUpon>
     </Compile>
     <Compile Include="Cursos\EditCurso.aspx.cs">
       <DependentUpon>EditCurso.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Cursos\EditCurso.aspx.designer.cs">
       <DependentUpon>EditCurso.aspx</DependentUpon>
     </Compile>
     <Compile Include="Cursos\ListCursos.aspx.cs">
       <DependentUpon>ListCursos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Cursos\ListCursos.aspx.designer.cs">
       <DependentUpon>ListCursos.aspx</DependentUpon>
@@ -295,36 +298,42 @@
     </Compile>
     <Compile Include="Especialidades\AddEspecialidad.aspx.cs">
       <DependentUpon>AddEspecialidad.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Especialidades\AddEspecialidad.aspx.designer.cs">
       <DependentUpon>AddEspecialidad.aspx</DependentUpon>
     </Compile>
     <Compile Include="Especialidades\EditEspecialidad.aspx.cs">
       <DependentUpon>EditEspecialidad.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Especialidades\EditEspecialidad.aspx.designer.cs">
       <DependentUpon>EditEspecialidad.aspx</DependentUpon>
     </Compile>
     <Compile Include="Especialidades\ListEspecialidades.aspx.cs">
       <DependentUpon>ListEspecialidades.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Especialidades\ListEspecialidades.aspx.designer.cs">
       <DependentUpon>ListEspecialidades.aspx</DependentUpon>
     </Compile>
     <Compile Include="Estudiantes\AddEstudiante.aspx.cs">
       <DependentUpon>AddEstudiante.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Estudiantes\AddEstudiante.aspx.designer.cs">
       <DependentUpon>AddEstudiante.aspx</DependentUpon>
     </Compile>
     <Compile Include="Estudiantes\EditEstudiante.aspx.cs">
       <DependentUpon>EditEstudiante.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Estudiantes\EditEstudiante.aspx.designer.cs">
       <DependentUpon>EditEstudiante.aspx</DependentUpon>
     </Compile>
     <Compile Include="Estudiantes\ListEstudiantes.aspx.cs">
       <DependentUpon>ListEstudiantes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Estudiantes\ListEstudiantes.aspx.designer.cs">
       <DependentUpon>ListEstudiantes.aspx</DependentUpon>
