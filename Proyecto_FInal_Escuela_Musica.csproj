@@ -375,6 +375,7 @@
     </Compile>
     <Compile Include="Profesores\AddProfesor.aspx.cs">
       <DependentUpon>AddProfesor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Profesores\AddProfesor.aspx.designer.cs">
       <DependentUpon>AddProfesor.aspx</DependentUpon>
