@@ -344,6 +344,7 @@
     </Compile>
     <Compile Include="Evaluaciones\ListEvaluaciones.aspx.cs">
       <DependentUpon>ListEvaluaciones.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Evaluaciones\ListEvaluaciones.aspx.designer.cs">
       <DependentUpon>ListEvaluaciones.aspx</DependentUpon>
